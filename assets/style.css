@@ -1,4 +1,17 @@
-img{box-sizing: border-box;
+@media (min-width: 576px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    body {
+      font-size: 10px;
+    }
+  }
+
+img {
+    box-sizing: border-box;
     width: 36px;
     height: 36px;
 }
