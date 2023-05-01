@@ -1,0 +1,14 @@
+@media (min-width: 576px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    body {
+      font-size: 10px;
+    }
+  }
+
+
+
