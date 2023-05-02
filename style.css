@@ -2,13 +2,13 @@
 
 @media (min-width: 576px) {
     body {
-      font-size: 14px;
+      font-size: 1rem;
     }
   }
   
   @media (max-width: 576px) {
     body {
-      font-size: 10px;
+      font-size: 0.8rem;
     }
   }
 
